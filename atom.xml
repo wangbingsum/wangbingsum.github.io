@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>潜鱼</title>
   
+  <subtitle>做一件事最好的时间是十年前,其次是现在</subtitle>
+  <link href="http://wangbingsum.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://wangbingsum.github.io/"/>
   <updated>2024-12-09T07:47:10.091Z</updated>
-  <id>http://example.com/</id>
+  <id>http://wangbingsum.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wang Bing</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/12/09/hello-world/"/>
-    <id>http://example.com/2024/12/09/hello-world/</id>
+    <link href="http://wangbingsum.github.io/2024/12/09/hello-world/"/>
+    <id>http://wangbingsum.github.io/2024/12/09/hello-world/</id>
     <published>2024-12-09T07:47:10.090Z</published>
     <updated>2024-12-09T07:47:10.091Z</updated>
     
